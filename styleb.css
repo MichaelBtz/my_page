@@ -1,0 +1,32 @@
+body {
+
+	background-image: url(catintheback.jpg);
+
+	background-size: cover;
+
+	font-family: Helvetica;
+}
+
+h1 {
+	color: dodgerblue;
+
+	background-color: lightblue;
+
+	text-align: center;
+
+	border: 3px inset blue
+
+}
+
+p {
+
+	text-align: center;
+
+	padding: 40px;
+
+}
+
+li {
+
+	list-style: square outside none
+}
