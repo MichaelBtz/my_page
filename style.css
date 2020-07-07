@@ -17,6 +17,10 @@ html {
 	padding-left: 25px;
 }
 
+a 	{
+	color:white;
+}
+
 h1	{
 	color: white;
 	-webkit-text-stroke: 1px dodgerblue;
